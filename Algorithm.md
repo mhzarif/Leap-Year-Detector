@@ -1,4 +1,4 @@
-# Algorithm of Leap year Detector
+# Algorithm
 
 Step-1: Start
 Step-2: Intput y
